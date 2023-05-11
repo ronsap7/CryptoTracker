@@ -22,11 +22,9 @@ Copy code
 
 ### Install the required dependencies:
 bash
-Copy code
 ``` npm install ```
 Start the development server:
 bash
-Copy code
 ``` npm start ```
 ### The application will be running at http://localhost:3000.
 
