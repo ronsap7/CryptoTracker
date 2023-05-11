@@ -9,7 +9,8 @@
 ###  Pagination for easier navigation through results
 
 
-#Installation
+# Installation
+
 ### Clone the repository:
 bash
 Copy code
