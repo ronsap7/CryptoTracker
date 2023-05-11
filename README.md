@@ -12,12 +12,10 @@
 # Installation
 
 ### Clone the repository:
-bash
-Copy code
+
 ``` git clone https://github.com/yourusername/crypto-tracker.git```
 Change into the project directory:
-bash
-Copy code
+
 ``` cd crypto-tracker ```
 
 ### Install the required dependencies:
