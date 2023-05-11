@@ -25,7 +25,7 @@ bash
 Start the development server:
 bash
 ``` npm start ```
-### The application will be running at http://localhost:3000.
+
 
 # Technologies
 ### React
