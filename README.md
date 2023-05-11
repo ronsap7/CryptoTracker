@@ -32,8 +32,9 @@ Copy code
 
 # Technologies
 ### React
-###Axios
-###CoinGecko API
+
+### Axios
+### CoinGecko API
 
 ### Netlify Deployment: https://papaya-bunny-d46600.netlify.app/
 
