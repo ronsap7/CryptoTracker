@@ -14,6 +14,7 @@
 ### Clone the repository:
 
 ``` git clone https://github.com/yourusername/crypto-tracker.git```
+
 Change into the project directory:
 
 ``` cd crypto-tracker ```
