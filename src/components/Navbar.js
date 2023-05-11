@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
+
 import './Navbar.css';
 
 function Navbar() {
-  const [isOpen, setIsOpen] = useState(false);
+ 
 
-  const toggleDropdown = () => setIsOpen(!isOpen);
+
 
   return (
     <nav className="navbar">
